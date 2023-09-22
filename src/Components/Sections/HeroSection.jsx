@@ -14,12 +14,6 @@ import "../../Styles/global.css";
 export default function HeroSection() {
   return (
     <section className="relative bg-primary pt-[140px] bg-opacity-5 pb-24">
-      <span
-        className="absolute bg-gray -left-28 -top-28 roun+
-      ded-full opacity-[20%] blur-3xl aspect-square h-[350px] -z-10 animate-pulse"
-      />
-      <span className="absolute bg-gradient-to-br from-primary to-secondary -right-28 -bottom-28 rounded-full opacity-[15%] blur-3xl  delay-700 duration-1000 aspect-square h-[550px] -z-10" />
-
       <div className="container px-4 mx-auto grid md:grid-cols-2">
         <div className="flex items-center">
           <div className="relative">
