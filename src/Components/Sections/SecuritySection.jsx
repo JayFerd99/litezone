@@ -23,7 +23,7 @@ export default function SecuritySection() {
                   Safety, security and compliance
                 </span>
                 <p className="text-gray">
-                  Lite zone is a licensed New York trust company that undergoes
+                  Lite zone is a licensed Nigerian trust company that undergoes
                   regular bank exams and is subject to the cybersecurity audits
                   conducted by the New York Department of Financial Services.
                   Learn more about our commitment to security.

@@ -39,7 +39,11 @@ export default function FinalSection() {
       <div className="grid md:grid-cols-2">
         <div className="mb-4">
           <span up duration={1000}>
-            <img src={final} alt="FAQ" />
+            <img
+              src={final}
+              className="mb-4 mx-auto hover:-translate-y-6 hover:scale-105 transition-all duration-300git "
+              alt="FAQ"
+            />
           </span>
         </div>
         <div className="flex justify-center">
